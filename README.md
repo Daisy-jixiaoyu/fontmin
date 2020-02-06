@@ -1,0 +1,2 @@
+# fontmin
+node fonts.js
